@@ -1,8 +1,8 @@
 import { game } from './Controller.js';
 
 export var winIn = [];
-export let name = prompt('Enter your name (Default name - "Guest")')
-export let size = prompt('Enter board size (Minimum - 3 Maximum - 10)');
+export let name = prompt('Введите свое имя')
+export let size = prompt('Введите размер доски (от 3 до 10)');
 
 export function start_game() {
 

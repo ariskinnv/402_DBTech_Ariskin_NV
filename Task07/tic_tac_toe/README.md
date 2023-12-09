@@ -15,5 +15,5 @@
 
 ## Инструкция по установке и запуску игры
 
-1. Перейти по ссылке https://banselie.github.io/tic-tac-toe-js/
+1. Перейти по ссылке https://ariskinnv.github.io/TicTacToeWeb/
 2. Приступить к игре
